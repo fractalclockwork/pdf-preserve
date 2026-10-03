@@ -1,0 +1,16 @@
+source: ../../Digital_computer_design_fundamentals__Yaohan_Chu_1962_toc.pdf
+pages:
+  - page: xi
+    gold: xi.md
+  - page: "1"
+    gold: 1.md
+  - page: "6"
+    gold: 6.md
+  - page: "89"
+    gold: 89.md
+  - page: "137"
+    gold: 137.md
+  - page: "473"
+    gold: 473.md
+  - page: pdf:503
+    gold: pdf-503.md
